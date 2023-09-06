@@ -27,7 +27,7 @@
 }
 
 .Time{
-    background-image: linear-gradient(#1b1177,rgb(4, 13, 92));
+    background-image: linear-gradient(#4a98ff,rgb(62, 132, 238));
     color: black;
     display: flex;
     justify-content: center;
@@ -65,7 +65,7 @@
 }
 
 .rodape{
-    background-color: rgb(20, 14, 112);
+    background-color: rgb(62, 168, 255);
     text-align: center;
 }
 
